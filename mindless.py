@@ -1,3 +1,4 @@
+#day 2: mindless
 import time
 import sys
 def print_slow(str):
