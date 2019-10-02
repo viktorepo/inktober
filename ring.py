@@ -1,3 +1,4 @@
+#Day 1: Ring
 import turtle
 wn = turtle.Screen()
 wn.bgcolor('grey')
