@@ -1,6 +1,6 @@
 # inktober
 Here I will upload small pieces of code related to the official prompt list of Inktober 2019.
-The list can be found [here](URL "https://inktober.com/rules")
+The list can be found [here]("https://inktober.com/rules")
 
 ## System requirements
 * Python 2.xx
