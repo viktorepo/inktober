@@ -3,7 +3,7 @@
 import urllib2
 import json
 import random
-
+print("This will get you a random berry (in Pokemon Go berries are used like bait) from trefle.io database")
 #The Token is individual. I'm using mine for this example.
 #To get yours, register at trefle.io
 token = "MjV2Tjg2Q24zbFlyRmEyUWhwb2JVZz09"
