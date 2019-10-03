@@ -1,4 +1,5 @@
 #day 2: mindless
+#to see a live verion of this (Using Python3) go to https://repl.it/@viktorepo/mindless
 import time
 import sys
 def print_slow(str):
